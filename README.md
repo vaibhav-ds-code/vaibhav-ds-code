@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hey!%20I'm%20Vaibhav&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%7C%20ML%20Enthusiast&descAlignY=55&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hey!%20I'm%20Vaibhav&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%7C%20ML%20Enthusiast&descAlignY=55&descSize=20" alt="header banner" />
 </p>
 
 <p align="center">
@@ -8,7 +8,14 @@
   </a>
 </p>
 
-### About Me:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vaibhav-ds-code&label=Profile%20Views&color=00FF9C&style=for-the-badge" alt="profile views" />
+</p>
+
+<br/>
+
+### 👋 About Me
+
 - 🔭 I'm currently working on **an M.Tech thesis in protein engineering and ML-based projects in genomics**
 - 👯 I'm looking to collaborate on **data science / ML projects, especially at the intersection of biology and AI**
 - 🙏 I'm looking for help with **real-world ML pipelines, model deployment, and interview prep for DS/ML roles**
@@ -16,41 +23,47 @@
 - 💬 Ask me about **protein engineering, genomics, or bioinformatics**
 - ⚡ Fun fact: **I'm transitioning from a life sciences background into data science**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&section=header"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="divider" width="100%"/>
 
-### Tools and Languages:
+### 🛠️ Tools and Languages
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&section=header"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="divider" width="100%"/>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/C1r3YSmu4IQAAAAC/coding.gif" width="500"/>
+  <img src="https://media1.tenor.com/m/C1r3YSmu4IQAAAAC/coding.gif" width="500" alt="coding gif"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&section=header"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="divider" width="100%"/>
 
 ### 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhav-ds-code&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-ds-code&layout=compact&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-ds-code&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Most used languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhav-ds-code&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" alt="Vaibhav's GitHub stats" width="48%"/>
 </p>
 
-### 🔗 Reach Me:
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="divider" width="100%"/>
+
+### 🔗 Reach Me
+
 <p align="left">
-<a href="https://linkedin.com/in/vaibhav-tiwari-87a262315" target="blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:vt25btm1s08@student.nitw.ac.in">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="https://linkedin.com/in/vaibhav-tiwari-87a262315" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:vt25btm1s08@student.nitw.ac.in">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 <p align="center"><i>Thank you for visiting! :)</i></p>
