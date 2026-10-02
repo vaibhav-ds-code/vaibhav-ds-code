@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hey!%20I'm%20Vaibhav&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%7C%20ML%20Enthusiast&descAlignY=55&descSize=20" alt="header banner" />
+  <img src="https://raw.githubusercontent.com/vaibhav-ds-code/vaibhav-ds-code/main/assets/header-banner.svg" alt="header banner" width="100%"/>
 </p>
 
 <p align="center">
