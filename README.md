@@ -23,7 +23,7 @@
 - 💬 Ask me about **protein engineering, genomics, or bioinformatics**
 - ⚡ Fun fact: **I'm transitioning from a life sciences background into data science**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:FF0000,14:FF7F00,28:FFFF00,42:00FF00,57:00FFFF,71:0000FF,85:8B00FF,100:FF0000&section=header" alt="divider" width="100%"/>
+<img src="https://raw.githubusercontent.com/vaibhav-ds-code/vaibhav-ds-code/main/assets/rainbow-divider.svg" alt="divider" width="100%"/>
 
 ### 🛠️ Tools and Languages
 
@@ -38,13 +38,13 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:FF0000,14:FF7F00,28:FFFF00,42:00FF00,57:00FFFF,71:0000FF,85:8B00FF,100:FF0000&section=header" alt="divider" width="100%"/>
+<img src="https://raw.githubusercontent.com/vaibhav-ds-code/vaibhav-ds-code/main/assets/rainbow-divider.svg" alt="divider" width="100%"/>
 
 <p align="center">
   <img src="https://media1.tenor.com/m/C1r3YSmu4IQAAAAC/coding.gif" width="500" alt="coding gif"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:FF0000,14:FF7F00,28:FFFF00,42:00FF00,57:00FFFF,71:0000FF,85:8B00FF,100:FF0000&section=header" alt="divider" width="100%"/>
+<img src="https://raw.githubusercontent.com/vaibhav-ds-code/vaibhav-ds-code/main/assets/rainbow-divider.svg" alt="divider" width="100%"/>
 
 ### 📊 GitHub Analytics
 
@@ -53,7 +53,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=vaibhav-ds-code&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" alt="Vaibhav's GitHub stats" width="48%"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:FF0000,14:FF7F00,28:FFFF00,42:00FF00,57:00FFFF,71:0000FF,85:8B00FF,100:FF0000&section=header" alt="divider" width="100%"/>
+<img src="https://raw.githubusercontent.com/vaibhav-ds-code/vaibhav-ds-code/main/assets/rainbow-divider.svg" alt="divider" width="100%"/>
 
 ### 🔗 Reach Me
 
