@@ -16,7 +16,7 @@
 - 💬 Ask me about **protein engineering, genomics, or bioinformatics**
 - ⚡ Fun fact: **I'm transitioning from a life sciences background into data science**
 
-![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-superfast.gif)
 
 ### Tools and Languages:
 <p align="left">
@@ -29,13 +29,13 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-superfast.gif)
 
 <p align="center">
   <img src="https://media1.tenor.com/m/C1r3YSmu4IQAAAAC/coding.gif" width="500"/>
 </p>
 
-![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-superfast.gif)
 
 ### 📊 GitHub Analytics
 <p align="center">
