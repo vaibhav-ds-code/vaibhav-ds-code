@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vaibhav-ds-code&label=Profile%20Views&color=00FF9C&style=for-the-badge" alt="profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=vaibhav-ds-code.vaibhav-ds-code&left_color=555&right_color=00C49A" alt="profile views" />
 </p>
 
 <br/>
