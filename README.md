@@ -30,7 +30,7 @@
 ---
 
 <p align="center">
-  <img src="https://gifdb.com/images/branded/high/programming-window-coding-hello-world-nezfipv95sibsnvo.gif" width="500"/>
+  <img src="https://media1.tenor.com/m/C1r3YSmu4IQAAAAC/coding.gif" width="500"/>
 </p>
 
 ---
